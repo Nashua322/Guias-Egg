@@ -30,6 +30,7 @@ public class POOEjercicio11 {
         int dia;
         int mes;
         int anio;
+        int ejemplo;
 
         System.out.println("A continuacion ingresarema su fecha de nacimiento");
         System.out.println();
