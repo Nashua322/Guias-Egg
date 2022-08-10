@@ -76,9 +76,9 @@ public class PersonaService {
 
     public static void mostrarPersona(Persona humano) {
 
-        System.out.println("La persona creada en el metodo anterior se llama: "+humano.getPer2());
-        
-         Date fechaHoy = new Date();
+        System.out.println("La persona creada en el metodo anterior se llama: " + humano.getPer2());
+
+        Date fechaHoy = new Date();
 
         int diferencia = (fechaHoy.getYear() - humano.getFecha_per2().getYear());
 
@@ -108,4 +108,4 @@ Mes de nacimiento
 Dia de nacimiento
 16
 -7
-*/
+ */
