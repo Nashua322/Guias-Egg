@@ -27,7 +27,7 @@ public class POOEjercicio10 {
         double[] b = new double[20];
         double[] centinela = new double[10];
 
-        System.out.println("Creados los dos rrays, se rellenara el primero con numeros random entre 0 y 10");
+        System.out.println("Creados los dos Arrays, se rellenara el primero con numeros random entre 0 y 10");
 
         for (int i = 0; i < 50; i++) {
 
